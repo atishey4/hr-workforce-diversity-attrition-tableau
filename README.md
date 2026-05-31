@@ -2,11 +2,11 @@
 
 ## Download
 
-📥 [Download the Tableau Workbook (.twbx)](./HR_Workforce_Diversity_Attrition.twbx)
+📥 [Download the Tableau Workbook (.twbx)](./HR%20Workforce%20Diversity%20%26%20Attrition%20-%20Visuals.twbx)
 
 ## Screenshots
 
-![HR Workforce Dashboard](./screenshots/dashboard.png)
+![HR Workforce Dashboard](./screenshots/Screenshot%202026-05-31%20135101.png)
 
 ## Overview
 This Tableau project analyzes workforce diversity and attrition patterns by department, role, and location to help HR teams improve retention, inclusion, and workforce planning.
