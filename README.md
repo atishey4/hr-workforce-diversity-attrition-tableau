@@ -1,4 +1,4 @@
-# HR Workforce Diversity & Attrition - Visuals
+# HR Workforce Diversity & Attrition Dashboard
 
 ## Download
 
@@ -9,22 +9,31 @@
 ![HR Workforce Dashboard](./screenshots/dashboard.png)
 
 ## Overview
-This Tableau workbook focuses on workforce diversity and attrition patterns to support HR planning and retention strategy.
+This Tableau project analyzes workforce diversity and attrition patterns by department, role, and location to help HR teams improve retention, inclusion, and workforce planning.
 
-## Key Features
-- Headcount distribution by department, role, and location.
-- Diversity views for gender and other demographic attributes.
-- Attrition rate trends and exit analysis by team.
-- Tenure and age distribution to identify risk segments.
-- Filters for time period, department, and location.
+## Sample Dataset (key fields)
+- Employee ID, Employee Name, Age, Gender
+- Department, Job Role, Location, Education Level
+- Years at Company, Monthly Salary, Performance Rating
+- Job Satisfaction Score, Work-Life Balance Score
+- Training Hours, Promotion Status, Overtime Status
+- Employment Type, Diversity Category
+- Attrition Status, Attrition Risk Level
 
-## Data and Metrics
-- Data is embedded within the workbook for easy access.
-- Key metrics include headcount, attrition rate, tenure, and demographic mix.
+## KPIs & Calculations
+- Total Employees, Attrition Count, Attrition Rate %
+- Diversity Ratio %, Promotion Ratio %
+- Average Salary, Average Satisfaction, Average Work-Life Balance
+- Department-wise Attrition, High Attrition Risk Count
 
-## How to Open
-1. Open the .twbx file in Tableau Desktop or Tableau Reader.
-2. Apply filters to focus on specific departments or time ranges.
+## Dashboard Views
+- KPI cards for Headcount, Attrition, Diversity
+- Attrition by Department (bar)
+- Diversity by Gender/Category (column)
+- Attrition Trend over time (line)
+- Employment Type Distribution (donut)
+- Department vs Attrition Rate (heatmap)
+- Salary vs Satisfaction (scatter) and employee analysis table with filters
 
-## Notes
-The visuals emphasize clarity and sensitivity for people analytics reporting.
+## Insights Enabled
+Surface high-risk departments and groups, link satisfaction to attrition, and track diversity progress for targeted HR action plans.
